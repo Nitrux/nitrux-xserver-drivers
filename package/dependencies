@@ -6,7 +6,6 @@
 xserver-xorg-input-aiptek
 xserver-xorg-input-elographics
 xserver-xorg-input-evdev
-xserver-xorg-input-kbd
 xserver-xorg-input-libinput
 xserver-xorg-input-mouse
 xserver-xorg-input-mtrack
