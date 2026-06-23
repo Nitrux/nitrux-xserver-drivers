@@ -3,16 +3,12 @@
 
 #    = XORG Drivers =
 
-xserver-xorg-input-aiptek
-xserver-xorg-input-elographics
 xserver-xorg-input-evdev
 xserver-xorg-input-libinput
 xserver-xorg-input-mouse
 xserver-xorg-input-mtrack
 xserver-xorg-input-synaptics
 xserver-xorg-input-wacom
-xserver-xorg-input-xwiimote
 xserver-xorg-video-amdgpu
 xserver-xorg-video-intel
-xserver-xorg-video-qxl
 xserver-xorg-video-radeon
